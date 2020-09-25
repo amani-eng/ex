@@ -1,4 +1,4 @@
-FROM tomcat:latest
+FROM tomcat:9
 
 LABEL maintainer="madhavi.reddy0891@gmail.com"
 
